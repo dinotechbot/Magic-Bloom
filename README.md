@@ -95,7 +95,9 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 **Sayan Biswas**
+
 B.Tech Undergraduate
+
 Computer Vision & IoT Enthusiast
 
 
